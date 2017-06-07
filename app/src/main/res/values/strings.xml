@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AndroidLifecycleArchitecture</string>
+    <string name="lbl_edt_name">Enter your name here</string>
+    <string name="lbl_btn_name">Submit</string>
+    <string name="msg_valid_name">Please enter valid name</string>
+    <string name="lbl_txt_name">Entered name is: </string>
 </resources>
