@@ -1,4 +1,4 @@
-package com.andigeeky.androidlifecyclearchitecture;
+package com.andigeeky.androidlifecyclearchitecture.basic;
 
 import android.arch.lifecycle.ViewModel;
 

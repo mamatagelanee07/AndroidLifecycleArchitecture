@@ -1,4 +1,4 @@
-package com.andigeeky.androidlifecyclearchitecture;
+package com.andigeeky.androidlifecyclearchitecture.basic;
 
 import android.arch.lifecycle.ViewModelProviders;
 import android.databinding.DataBindingUtil;
@@ -9,6 +9,7 @@ import android.text.TextUtils;
 import android.view.View;
 import android.widget.Toast;
 
+import com.andigeeky.androidlifecyclearchitecture.R;
 import com.andigeeky.androidlifecyclearchitecture.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
