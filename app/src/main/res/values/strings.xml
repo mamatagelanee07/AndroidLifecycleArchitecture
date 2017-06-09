@@ -4,4 +4,7 @@
     <string name="lbl_btn_name">Submit</string>
     <string name="msg_valid_name">Please enter valid name</string>
     <string name="lbl_txt_name">Entered name is: </string>
+    <string name="lbl_btn_color">This button color will change at every second</string>
+    <string name="lbl_txt_seconds">Seconds</string>
+    <string name="lbl_txt_second_value">0</string>
 </resources>

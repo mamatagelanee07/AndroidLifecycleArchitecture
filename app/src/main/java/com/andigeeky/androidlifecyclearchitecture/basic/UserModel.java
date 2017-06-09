@@ -2,9 +2,6 @@ package com.andigeeky.androidlifecyclearchitecture.basic;
 
 import android.arch.lifecycle.ViewModel;
 
-/**
- * Created by E066733 on 6/7/2017.
- */
 
 public class UserModel extends ViewModel {
     private String name;
